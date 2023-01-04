@@ -1,0 +1,25 @@
+@import '../abstract/variaveis';
+
+.secao__pedras {
+  margin: 2rem;
+
+  &--imageContainer {
+    text-align: center;
+  }
+
+  &--textContainer {
+    margin: 1rem 0;
+    text-align: center;
+    font-size: $tamanho-do-texto / 2;
+
+    &--h3 {
+      font-weight: bold;
+    }
+
+    h3,
+    h4,
+    p {
+      line-height: 28px;
+    }
+  }
+}

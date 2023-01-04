@@ -1,0 +1,1 @@
+## This one is just a simple project I did to study how sass works. 
